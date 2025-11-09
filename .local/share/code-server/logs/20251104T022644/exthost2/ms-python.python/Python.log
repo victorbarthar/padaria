@@ -1,0 +1,36 @@
+2025-11-04 19:32:21.595 [warning] Dir "/home/coder/.pixi/envs" is not watchable (directory does not exist)
+2025-11-04 19:32:22.985 [info] Starting Environment refresh
+2025-11-04 19:32:22.985 [info] Searching for interpreters in posix paths locator
+2025-11-04 19:32:22.996 [info] Searching for pyenv environments
+2025-11-04 19:32:22.996 [info] Searching for conda environments
+2025-11-04 19:32:22.997 [info] Searching for global virtual environments
+2025-11-04 19:32:22.997 [info] Searching for custom virtual environments
+2025-11-04 19:32:23.187 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2025-11-04 19:32:23.188 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2025-11-04 19:32:23.190 [info] pyenv is not installed
+2025-11-04 19:32:23.190 [info] Finished searching for pyenv environments: 203 milliseconds
+2025-11-04 19:32:23.191 [info] Finished searching for custom virtual envs: 202 milliseconds
+2025-11-04 19:32:23.275 [info] > conda info --json
+2025-11-04 19:32:23.283 [info] > hatch env show --json
+2025-11-04 19:32:23.283 [info] cwd: .
+2025-11-04 19:32:23.292 [info] > pyenv which python
+2025-11-04 19:32:23.368 [info] cwd: .
+2025-11-04 19:32:23.369 [info] Finished searching for global virtual envs: 380 milliseconds
+2025-11-04 19:32:23.389 [info] Found: /bin/python3 --> /bin/python3.11
+2025-11-04 19:32:23.466 [info] Found: /bin/python3.11 --> /bin/python3.11
+2025-11-04 19:32:23.582 [info] Found: /usr/bin/python3 --> /usr/bin/python3.11
+2025-11-04 19:32:23.585 [info] Found: /usr/bin/python3.11 --> /usr/bin/python3.11
+2025-11-04 19:32:23.678 [info] > ./.venv/bin/python -I ./.local/share/code-server/extensions/ms-python.python-2025.16.0-universal/python_files/get_output_via_markers.py ./.local/share/code-server/extensions/ms-python.python-2025.16.0-universal/python_files/interpreterInfo.py
+2025-11-04 19:32:25.780 [info] Finished searching for interpreters in posix paths locator: 2598 milliseconds
+2025-11-04 19:32:25.780 [info] > /bin/python3 -I ./.local/share/code-server/extensions/ms-python.python-2025.16.0-universal/python_files/get_output_via_markers.py ./.local/share/code-server/extensions/ms-python.python-2025.16.0-universal/python_files/interpreterInfo.py
+2025-11-04 19:32:28.572 [info] > /usr/bin/python3 -I ./.local/share/code-server/extensions/ms-python.python-2025.16.0-universal/python_files/get_output_via_markers.py ./.local/share/code-server/extensions/ms-python.python-2025.16.0-universal/python_files/interpreterInfo.py
+2025-11-04 19:32:28.578 [info] Environments refresh paths discovered (event): 5672 milliseconds
+2025-11-04 19:32:28.578 [info] Environments refresh paths discovered: 5679 milliseconds
+2025-11-04 19:32:32.880 [info] Environments refresh finished (event): 9981 milliseconds
+2025-11-04 19:32:33.096 [info] Environment refresh took 10197 milliseconds
+2025-11-04 19:32:33.379 [info] Python interpreter path: ./.venv/bin/python
+2025-11-04 19:32:36.071 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-04 19:32:38.906 [info] Starting Jedi language server for coder.
+2025-11-04 19:32:45.376 [info] Send text to terminal: source /home/coder/.venv/bin/activate
+2025-11-04 19:32:46.378 [info] Send text to terminal: /home/coder/.venv/bin/python /home/coder/oi.py
+2025-11-04 19:32:46.490 [info] CreateEnv Trigger - Skipping for /home/coder/oi.py

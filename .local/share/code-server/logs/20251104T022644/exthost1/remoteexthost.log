@@ -1,0 +1,80 @@
+2025-11-04 02:27:00.074 [info] Extension host with pid 444 started
+2025-11-04 02:27:00.075 [error] Error: EEXIST: file already exists, open '/home/coder/.local/share/code-server/User/workspaceStorage/1cebbed7/vscode.lock'
+2025-11-04 02:27:00.087 [error] SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at M4 (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:248:6337)
+    at async WP (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:248:5973)
+    at async JJ.g (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:248:4834)
+    at async JJ.h (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:112:19484)
+2025-11-04 02:27:00.087 [info] Lock '/home/coder/.local/share/code-server/User/workspaceStorage/1cebbed7/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-11-04 02:27:00.282 [error] SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at M4 (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:248:6337)
+    at async eZ (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:248:6596)
+    at async JJ.g (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:248:4834)
+    at async JJ.h (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:112:19484)
+2025-11-04 02:27:00.282 [info] Lock '/home/coder/.local/share/code-server/User/workspaceStorage/1cebbed7/vscode.lock': Could not read pid of lock holder.
+2025-11-04 02:27:00.282 [info] Lock '/home/coder/.local/share/code-server/User/workspaceStorage/1cebbed7/vscode.lock': Deleting a stale lock.
+2025-11-04 02:27:00.582 [info] Lock '/home/coder/.local/share/code-server/User/workspaceStorage/1cebbed7/vscode.lock': Lock acquired.
+2025-11-04 02:27:01.374 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2025-11-04 02:27:01.376 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'onLanguage:python'
+2025-11-04 02:27:01.377 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-11-04 02:27:06.070 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-11-04 02:27:06.289 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-11-04 02:27:06.290 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-11-04 02:27:06.291 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-11-04 02:27:08.080 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-11-04 02:27:09.583 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-11-04 02:27:09.584 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-11-04 02:27:13.087 [info] Not activating extension 'ms-python.python': Timed out while searching for 'workspaceContains' pattern **/pylock.*.toml
+2025-11-04 02:27:15.680 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-11-04 02:27:16.086 [info] Eager extensions activated
+2025-11-04 02:27:16.087 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-11-04 02:27:16.087 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-11-04 06:36:55.846 [info] Extension host terminating: renderer disconnected for too long (1)
+2025-11-04 06:36:55.859 [info] Lock '/home/coder/.local/share/code-server/User/workspaceStorage/1cebbed7/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2025-11-04 06:36:56.116 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+	at Object.X [as deactivate] (/home/coder/.local/share/code-server/extensions/ms-python.vscode-python-envs-1.10.0-universal/dist/extension.js:2:668378)
+	at lJ.eb (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:116:11836)
+	at file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:116:9986
+	at Array.map (<anonymous>)
+	at lJ.$ (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:116:9974)
+	at lJ.terminate (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:116:10217)
+	at R3.terminate (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:118:914)
+	at ys (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:391:10411)
+	at US.a (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:391:7253)
+	at US.h (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:28:76552)
+	at listOnTimeout (node:internal/timers:588:17)
+	at process.processTimers (node:internal/timers:523:7)
+2025-11-04 06:36:56.116 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+	at fl (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:7:1394)
+	at file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:29:121222
+	at Array.forEach (<anonymous>)
+	at j4.dispose (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:29:121162)
+	at lJ.terminate (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:116:10194)
+	at R3.terminate (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:118:914)
+	at ys (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:391:10411)
+	at US.a (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:391:7253)
+	at US.h (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:28:76552)
+	at listOnTimeout (node:internal/timers:588:17)
+	at process.processTimers (node:internal/timers:523:7) 
+2025-11-04 06:36:56.117 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+	at fl (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:7:1394)
+	at file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:29:121222
+	at Array.forEach (<anonymous>)
+	at j4.dispose (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:29:121162)
+	at lJ.terminate (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:116:10194)
+	at R3.terminate (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:118:914)
+	at ys (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:391:10411)
+	at US.a (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:391:7253)
+	at US.h (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:28:76552)
+	at listOnTimeout (node:internal/timers:588:17)
+	at process.processTimers (node:internal/timers:523:7) 
+2025-11-04 06:36:56.689 [error] Error: Channel has been closed
+	at n (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:119:2816)
+	at Object.info (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:119:3161)
+	at T.info (/usr/lib/code-server/lib/vscode/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:45257)
+	at ChildProcess.<anonymous> (/usr/lib/code-server/lib/vscode/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:600187)
+	at ChildProcess.emit (node:events:518:28)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-11-04 06:36:56.691 [info] Extension host with pid 444 exiting with code 0

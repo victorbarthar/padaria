@@ -1,0 +1,8 @@
+2025-11-08 14:01:15.684 [info] Expanding terminal instance, old id 1cebbed7-3 -> new id undefined
+2025-11-08 14:01:15.686 [info] Expanding terminal instance, old id 1cebbed7-4 -> new id undefined
+2025-11-08 14:01:21.177 [warning] Persistent process "4": Process had no disconnect runners but was an orphan
+2025-11-08 14:01:21.177 [info] Persistent process reconnection "4"
+2025-11-08 14:01:21.692 [info] Persistent process "4": Replaying 1261 chars and 1 size events
+2025-11-08 14:01:23.985 [warning] Persistent process "3": Process had no disconnect runners but was an orphan
+2025-11-08 14:01:23.985 [info] Persistent process reconnection "3"
+2025-11-08 14:01:24.272 [info] Persistent process "3": Replaying 52 chars and 1 size events

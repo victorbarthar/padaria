@@ -1,0 +1,20 @@
+Nome: Bolo, Qtd: 3.0, Preço: R$ 85.78, Total do item: R$ 257.34
+Nome: docinho, Qtd: 100.0, Preço: R$ 0.25, Total do item: R$ 25.00
+-------------------
+PREÇO FINAL: R$ 282.34
+-------------------
+Parabéns você é rico e ganhou 20% de desconto
+R$ 282.34 - R$ 56.47
+PREÇO FINAL: R$ 225.87
+Nome: Maracujá, Qtd: 5.0, Preço: R$ 11.9, Total do item: R$ 59.50
+Nome: morango, Qtd: 6.0, Preço: R$ 19.18, Total do item: R$ 115.08
+-------------------
+PREÇO FINAL: R$ 174.58
+-------------------
+Nome: potato, Qtd: 47.84, Preço: R$ 2.77, Total do item: R$ 132.52
+-------------------
+PREÇO FINAL: R$ 132.52
+-------------------
+Parabéns você é pobre premium e ganhou 10% de desconto
+R$ 132.52 - R$ 13.25
+PREÇO FINAL: R$ 119.27

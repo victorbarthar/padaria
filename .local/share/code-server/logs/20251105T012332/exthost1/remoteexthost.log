@@ -1,0 +1,107 @@
+2025-11-05 01:23:59.685 [info] Extension host with pid 827 started
+2025-11-05 01:23:59.685 [error] Error: EEXIST: file already exists, open '/home/coder/.local/share/code-server/User/workspaceStorage/1cebbed7/vscode.lock'
+2025-11-05 01:23:59.769 [info] Lock '/home/coder/.local/share/code-server/User/workspaceStorage/1cebbed7/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-11-05 01:23:59.869 [info] Lock '/home/coder/.local/share/code-server/User/workspaceStorage/1cebbed7/vscode.lock': The pid 26554 appears to be gone.
+2025-11-05 01:23:59.869 [info] Lock '/home/coder/.local/share/code-server/User/workspaceStorage/1cebbed7/vscode.lock': Deleting a stale lock.
+2025-11-05 01:24:00.382 [info] Lock '/home/coder/.local/share/code-server/User/workspaceStorage/1cebbed7/vscode.lock': Lock acquired.
+2025-11-05 01:24:01.279 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-11-05 01:24:01.577 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:.venv'
+2025-11-05 01:24:08.289 [info] Not activating extension 'ms-python.python': Timed out while searching for 'workspaceContains' pattern **/pylock.*.toml
+2025-11-05 01:24:08.672 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'onLanguage:python'
+2025-11-05 01:24:08.672 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-11-05 01:24:10.686 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-11-05 01:24:10.687 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-11-05 01:24:11.668 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-11-05 01:24:11.668 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-11-05 01:24:20.911 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-11-05 01:24:22.380 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-11-05 01:24:22.882 [info] Eager extensions activated
+2025-11-05 01:25:23.202 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-11-05 01:25:29.557 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-11-05 01:25:29.557 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-11-05 01:25:29.558 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-11-05 01:32:10.583 [error] [ms-python.python] provider FAILED
+2025-11-05 01:32:10.584 [error] Error: UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value
+	at ae (/home/coder/.local/share/code-server/extensions/ms-python.python-2025.16.0-universal/out/client/extension.js:2:2018252)
+	at oe (/home/coder/.local/share/code-server/extensions/ms-python.python-2025.16.0-universal/out/client/extension.js:2:2016212)
+	at Immediate.<anonymous> (/home/coder/.local/share/code-server/extensions/ms-python.python-2025.16.0-universal/out/client/extension.js:2:2012506)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-11-05 01:32:10.874 [error] [ms-python.python] provider FAILED
+2025-11-05 01:32:10.874 [error] Error: UnboundLocalError: cannot access local variable 'end_index' where it is not associated with a value
+	at ae (/home/coder/.local/share/code-server/extensions/ms-python.python-2025.16.0-universal/out/client/extension.js:2:2018252)
+	at oe (/home/coder/.local/share/code-server/extensions/ms-python.python-2025.16.0-universal/out/client/extension.js:2:2016212)
+	at Immediate.<anonymous> (/home/coder/.local/share/code-server/extensions/ms-python.python-2025.16.0-universal/out/client/extension.js:2:2012506)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-11-05 01:32:21.365 [error] [ms-python.python] provider FAILED
+2025-11-05 01:32:21.366 [error] Error: UnboundLocalError: cannot access local variable 'end_index' where it is not associated with a value
+	at ae (/home/coder/.local/share/code-server/extensions/ms-python.python-2025.16.0-universal/out/client/extension.js:2:2018252)
+	at oe (/home/coder/.local/share/code-server/extensions/ms-python.python-2025.16.0-universal/out/client/extension.js:2:2016212)
+	at Immediate.<anonymous> (/home/coder/.local/share/code-server/extensions/ms-python.python-2025.16.0-universal/out/client/extension.js:2:2012506)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-11-05 01:32:22.454 [error] [ms-python.python] provider FAILED
+2025-11-05 01:32:22.454 [error] Error: UnboundLocalError: cannot access local variable 'end_index' where it is not associated with a value
+	at ae (/home/coder/.local/share/code-server/extensions/ms-python.python-2025.16.0-universal/out/client/extension.js:2:2018252)
+	at oe (/home/coder/.local/share/code-server/extensions/ms-python.python-2025.16.0-universal/out/client/extension.js:2:2016212)
+	at Immediate.<anonymous> (/home/coder/.local/share/code-server/extensions/ms-python.python-2025.16.0-universal/out/client/extension.js:2:2012506)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-11-05 01:32:24.232 [error] [ms-python.python] provider FAILED
+2025-11-05 01:32:24.233 [error] Error: UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value
+	at ae (/home/coder/.local/share/code-server/extensions/ms-python.python-2025.16.0-universal/out/client/extension.js:2:2018252)
+	at oe (/home/coder/.local/share/code-server/extensions/ms-python.python-2025.16.0-universal/out/client/extension.js:2:2016212)
+	at Immediate.<anonymous> (/home/coder/.local/share/code-server/extensions/ms-python.python-2025.16.0-universal/out/client/extension.js:2:2012506)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-11-05 01:32:25.459 [error] [ms-python.python] provider FAILED
+2025-11-05 01:32:25.459 [error] Error: UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value
+	at ae (/home/coder/.local/share/code-server/extensions/ms-python.python-2025.16.0-universal/out/client/extension.js:2:2018252)
+	at oe (/home/coder/.local/share/code-server/extensions/ms-python.python-2025.16.0-universal/out/client/extension.js:2:2016212)
+	at Immediate.<anonymous> (/home/coder/.local/share/code-server/extensions/ms-python.python-2025.16.0-universal/out/client/extension.js:2:2012506)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-11-05 01:32:27.867 [error] [ms-python.python] provider FAILED
+2025-11-05 01:32:27.867 [error] Error: UnboundLocalError: cannot access local variable 'end_index' where it is not associated with a value
+	at ae (/home/coder/.local/share/code-server/extensions/ms-python.python-2025.16.0-universal/out/client/extension.js:2:2018252)
+	at oe (/home/coder/.local/share/code-server/extensions/ms-python.python-2025.16.0-universal/out/client/extension.js:2:2016212)
+	at Immediate.<anonymous> (/home/coder/.local/share/code-server/extensions/ms-python.python-2025.16.0-universal/out/client/extension.js:2:2012506)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-11-05 01:32:28.148 [error] [ms-python.python] provider FAILED
+2025-11-05 01:32:28.148 [error] Error: UnboundLocalError: cannot access local variable 'end_index' where it is not associated with a value
+	at ae (/home/coder/.local/share/code-server/extensions/ms-python.python-2025.16.0-universal/out/client/extension.js:2:2018252)
+	at oe (/home/coder/.local/share/code-server/extensions/ms-python.python-2025.16.0-universal/out/client/extension.js:2:2016212)
+	at Immediate.<anonymous> (/home/coder/.local/share/code-server/extensions/ms-python.python-2025.16.0-universal/out/client/extension.js:2:2012506)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-11-05 01:32:28.554 [error] [ms-python.python] provider FAILED
+2025-11-05 01:32:28.554 [error] Error: UnboundLocalError: cannot access local variable 'end_index' where it is not associated with a value
+	at ae (/home/coder/.local/share/code-server/extensions/ms-python.python-2025.16.0-universal/out/client/extension.js:2:2018252)
+	at oe (/home/coder/.local/share/code-server/extensions/ms-python.python-2025.16.0-universal/out/client/extension.js:2:2016212)
+	at Immediate.<anonymous> (/home/coder/.local/share/code-server/extensions/ms-python.python-2025.16.0-universal/out/client/extension.js:2:2012506)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-11-05 01:33:42.706 [error] [ms-python.python] provider FAILED
+2025-11-05 01:33:42.711 [error] Error: UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value
+	at ae (/home/coder/.local/share/code-server/extensions/ms-python.python-2025.16.0-universal/out/client/extension.js:2:2018252)
+	at oe (/home/coder/.local/share/code-server/extensions/ms-python.python-2025.16.0-universal/out/client/extension.js:2:2016212)
+	at Immediate.<anonymous> (/home/coder/.local/share/code-server/extensions/ms-python.python-2025.16.0-universal/out/client/extension.js:2:2012506)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-11-05 01:36:40.907 [info] Extension host terminating: received terminate message from renderer
+2025-11-05 01:36:40.972 [info] Lock '/home/coder/.local/share/code-server/User/workspaceStorage/1cebbed7/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2025-11-05 01:36:41.874 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+	at Object.X [as deactivate] (/home/coder/.local/share/code-server/extensions/ms-python.vscode-python-envs-1.10.0-universal/dist/extension.js:2:668378)
+	at lJ.eb (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:116:11836)
+	at file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:116:9986
+	at Array.map (<anonymous>)
+	at lJ.$ (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:116:9974)
+	at lJ.terminate (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:116:10217)
+	at R3.terminate (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:118:914)
+	at ys (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:391:10411)
+	at od.value (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:391:8562)
+	at $.C (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.fire (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at wo.fire (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+	at iv.A (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:29:12574)
+	at od.value (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:29:10994)
+	at $.C (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.fire (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at yE.acceptChunk (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:29:7941)
+	at od.value (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:29:7227)
+	at $.C (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.fire (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at gN.z (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:29:21724)
+2025-11-05 01:36:42.381 [info] Extension host with pid 827 exiting with code 0

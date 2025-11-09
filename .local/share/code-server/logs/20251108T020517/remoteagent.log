@@ -1,0 +1,19 @@
+2025-11-08 02:05:17.511 [info] 
+
+
+
+
+2025-11-08 02:05:17.590 [info] Extension host agent started.
+2025-11-08 02:05:22.728 [info] [104.28.199.164][3ed8b5f6][ManagementConnection] New connection established.
+2025-11-08 02:05:26.867 [info] [104.28.199.164][875356de][ExtensionHostConnection] New connection established.
+2025-11-08 02:05:27.586 [info] [104.28.199.164][875356de][ExtensionHostConnection] <439> Launched Extension Host Process.
+2025-11-08 03:24:55.776 [info] [104.28.199.164][3ed8b5f6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-11-08 03:24:57.291 [info] [104.28.199.164][875356de][ExtensionHostConnection] <439> Extension Host Process exited with code: 0, signal: null.
+2025-11-08 03:25:01.788 [info] [104.28.199.164][f161ab50][ManagementConnection] New connection established.
+2025-11-08 03:25:06.284 [info] [104.28.199.164][40da4f4a][ExtensionHostConnection] New connection established.
+2025-11-08 03:25:06.365 [info] [104.28.199.164][40da4f4a][ExtensionHostConnection] <9450> Launched Extension Host Process.
+2025-11-08 04:25:07.977 [warning] No ptyHost heartbeat after 6 seconds
+2025-11-08 04:25:21.782 [warning] No ptyHost heartbeat after 6 seconds
+2025-11-08 04:25:30.372 [warning] No ptyHost heartbeat after 6 seconds
+2025-11-08 04:26:29.740 [error] No ptyHost heartbeat after 12 seconds
+2025-11-08 04:27:16.559 [warning] No ptyHost heartbeat after 6 seconds

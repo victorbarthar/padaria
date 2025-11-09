@@ -1,0 +1,22 @@
+2025-11-06 23:04:59.296 [info] [main] Log level: Info
+2025-11-06 23:04:59.296 [info] [main] Validating found git in: "git"
+2025-11-06 23:04:59.296 [info] [main] Using git "2.39.5" from "git"
+2025-11-06 23:04:59.296 [info] [Model][doInitialScan] Initial repository scan started
+2025-11-06 23:04:59.296 [info] > git rev-parse --show-toplevel [800ms]
+2025-11-06 23:04:59.296 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-06 23:04:59.296 [info] > git rev-parse --show-toplevel [78ms]
+2025-11-06 23:04:59.296 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-06 23:04:59.296 [info] > git rev-parse --show-toplevel [105ms]
+2025-11-06 23:04:59.296 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-06 23:04:59.296 [info] > git rev-parse --show-toplevel [8ms]
+2025-11-06 23:04:59.296 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-06 23:04:59.298 [info] > git rev-parse --show-toplevel [11ms]
+2025-11-06 23:04:59.298 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-06 23:04:59.390 [info] > git rev-parse --show-toplevel [23ms]
+2025-11-06 23:04:59.390 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-06 23:04:59.489 [info] > git rev-parse --show-toplevel [90ms]
+2025-11-06 23:04:59.489 [info] fatal: not a git repository (or any parent up to mount point /home/coder)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-11-06 23:04:59.579 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-11-06 23:04:59.784 [info] > git rev-parse --show-toplevel [8ms]
+2025-11-06 23:04:59.784 [info] fatal: not a git repository (or any of the parent directories): .git

@@ -1,0 +1,20 @@
+2025-11-04 01:09:01.392 [info] Extension host with pid 78117 started
+2025-11-04 01:09:01.472 [info] Lock '/home/coder/.local/share/code-server/User/workspaceStorage/1cebbed7/vscode.lock': Lock acquired.
+2025-11-04 01:09:02.096 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2025-11-04 01:09:02.097 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'onLanguage:python'
+2025-11-04 01:09:02.097 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-11-04 01:09:05.182 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-11-04 01:09:05.374 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-11-04 01:09:06.490 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-11-04 01:09:06.492 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-11-04 01:09:11.376 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-11-04 01:09:11.768 [info] Eager extensions activated
+2025-11-04 01:09:11.769 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-11-04 01:09:11.769 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-11-04 01:15:05.248 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-11-04 01:15:11.388 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-11-04 01:15:11.389 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-11-04 01:15:11.389 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-11-04 02:10:51.337 [info] ExtensionService#_doActivateExtension vscode.references-view, startup: false, activationEvent: 'onCommand:references-view.findReferences'
+2025-11-04 02:19:59.569 [info] Extension host terminating: received terminate message from renderer
+2025-11-04 02:19:59.875 [info] Lock '/home/coder/.local/share/code-server/User/workspaceStorage/1cebbed7/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.

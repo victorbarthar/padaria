@@ -1,0 +1,65 @@
+2025-11-05 01:24:17.086 [warning] Dir "/home/coder/.pixi/envs" is not watchable (directory does not exist)
+2025-11-05 01:24:22.967 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2025-11-05 01:24:22.970 [info] Python interpreter path: ./.venv/bin/python
+2025-11-05 01:24:23.985 [info] > pyenv which python
+2025-11-05 01:24:23.985 [info] cwd: .
+2025-11-05 01:24:24.969 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 01:24:28.794 [info] Starting Jedi language server for coder.
+2025-11-05 01:24:47.967 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 01:25:06.578 [info] Send text to terminal: source /home/coder/.venv/bin/activate
+2025-11-05 01:25:07.373 [info] CreateEnv Trigger - Skipping for /home/coder/oi.py
+2025-11-05 01:25:50.766 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 01:25:52.766 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 01:25:59.533 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 01:26:00.748 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 01:26:04.780 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 01:27:02.783 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 01:27:05.132 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 01:27:07.294 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 01:27:09.857 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 01:27:12.541 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 01:27:15.894 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 01:27:19.138 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 01:27:21.618 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 01:27:23.704 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 01:30:42.106 [info] Discover tests for workspace name: coder - uri: /home/coder/test.py
+2025-11-05 01:30:43.631 [info] Discover tests for workspace name: coder - uri: /home/coder/test.py
+2025-11-05 01:30:45.667 [info] Discover tests for workspace name: coder - uri: /home/coder/test.py
+2025-11-05 01:31:20.631 [info] Discover tests for workspace name: coder - uri: /home/coder/test.py
+2025-11-05 01:31:28.875 [info] Discover tests for workspace name: coder - uri: /home/coder/test.py
+2025-11-05 01:31:31.520 [info] Discover tests for workspace name: coder - uri: /home/coder/test.py
+2025-11-05 01:31:33.065 [info] Discover tests for workspace name: coder - uri: /home/coder/test.py
+2025-11-05 01:31:34.865 [info] Discover tests for workspace name: coder - uri: /home/coder/test.py
+2025-11-05 01:31:39.020 [info] Discover tests for workspace name: coder - uri: /home/coder/test.py
+2025-11-05 01:31:41.466 [info] Discover tests for workspace name: coder - uri: /home/coder/test.py
+2025-11-05 01:31:44.367 [info] Discover tests for workspace name: coder - uri: /home/coder/test.py
+2025-11-05 01:32:11.277 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 01:32:12.498 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 01:32:15.702 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 01:32:23.108 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 01:32:25.901 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 01:32:27.865 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 01:32:30.348 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 01:32:31.384 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 01:32:36.366 [info] Discover tests for workspace name: coder - uri: /home/coder/test.py
+2025-11-05 01:32:38.566 [info] Discover tests for workspace name: coder - uri: /home/coder/test.py
+2025-11-05 01:32:53.266 [info] Discover tests for workspace name: coder - uri: /home/coder/test.py
+2025-11-05 01:32:54.486 [info] Discover tests for workspace name: coder - uri: /home/coder/test.py
+2025-11-05 01:33:01.196 [info] Discover tests for workspace name: coder - uri: /home/coder/test.py
+2025-11-05 01:33:03.119 [info] Discover tests for workspace name: coder - uri: /home/coder/test.py
+2025-11-05 01:33:15.891 [info] Discover tests for workspace name: coder - uri: /home/coder/test.py
+2025-11-05 01:33:31.218 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 01:33:32.216 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 01:33:33.987 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 01:33:43.234 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 01:33:45.057 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 01:33:46.883 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 01:33:48.582 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 01:34:35.457 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 01:34:37.094 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 01:34:48.369 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 01:35:00.468 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 01:36:13.667 [info] Discover tests for workspace name: coder - uri: /home/coder/test.py
+2025-11-05 01:36:17.065 [info] Discover tests for workspace name: coder - uri: /home/coder/test.py
+2025-11-05 01:36:28.481 [info] Send text to terminal: source /home/coder/.venv/bin/activate
+2025-11-05 01:36:28.983 [info] Send text to terminal: /home/coder/.venv/bin/python /home/coder/oi.py

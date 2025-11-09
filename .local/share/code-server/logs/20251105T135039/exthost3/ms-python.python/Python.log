@@ -1,0 +1,54 @@
+2025-11-05 14:26:15.402 [warning] Dir "/home/coder/.pixi/envs" is not watchable (directory does not exist)
+2025-11-05 14:26:27.088 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2025-11-05 14:26:27.090 [info] Python interpreter path: ./.venv/bin/python
+2025-11-05 14:26:28.385 [info] > pyenv which python
+2025-11-05 14:26:28.385 [info] cwd: .
+2025-11-05 14:26:37.189 [info] Starting Jedi language server for coder.
+2025-11-05 14:28:00.134 [info] Send text to terminal: source /home/coder/.venv/bin/activate
+2025-11-05 14:28:00.134 [info] Send text to terminal: source /home/coder/.venv/bin/activate
+2025-11-05 14:30:53.183 [info] Send text to terminal: source /home/coder/.venv/bin/activate
+2025-11-05 14:30:53.198 [info] CreateEnv Trigger - Skipping for /home/coder/oi.py
+2025-11-05 14:32:44.403 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 14:32:51.296 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 14:32:54.067 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 14:34:17.080 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 14:34:19.257 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 14:34:21.804 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 14:34:24.142 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 14:34:26.845 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 14:34:29.048 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 14:34:35.196 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 14:43:04.725 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 14:44:08.075 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 14:44:10.569 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 14:44:13.743 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 14:47:47.811 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 14:47:49.800 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 14:47:52.245 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 14:47:53.874 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 14:47:56.386 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 14:47:58.213 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 14:52:45.923 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 14:52:48.127 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 14:52:49.737 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 14:53:50.637 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 14:53:52.486 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 15:05:08.996 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 15:05:10.708 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 15:07:06.480 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 17:25:59.495 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 17:26:12.095 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 17:26:24.575 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 17:26:26.903 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 17:26:30.543 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 17:28:22.182 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 17:28:25.171 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 17:28:40.439 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 17:30:09.424 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 17:30:12.202 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 17:30:42.772 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 17:30:49.338 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 17:31:00.330 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 17:31:06.323 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 17:31:09.043 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-05 17:31:18.019 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py

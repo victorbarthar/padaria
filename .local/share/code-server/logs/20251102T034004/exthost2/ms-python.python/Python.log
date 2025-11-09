@@ -1,0 +1,28 @@
+2025-11-03 23:36:26.985 [warning] Dir "/home/coder/.pixi/envs" is not watchable (directory does not exist)
+2025-11-03 23:36:42.470 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2025-11-03 23:36:42.478 [info] Python interpreter path: ./.venv/bin/python
+2025-11-03 23:36:43.279 [info] > pyenv which python
+2025-11-03 23:36:43.280 [info] cwd: .
+2025-11-03 23:36:44.367 [info] Send text to terminal: source /home/coder/.venv/bin/activate
+2025-11-03 23:36:45.789 [info] Send text to terminal: /home/coder/.venv/bin/python /home/coder/0.py
+2025-11-03 23:36:45.971 [info] CreateEnv Trigger - Skipping for /home/coder/0.py
+2025-11-03 23:36:49.093 [info] Starting Jedi language server for coder.
+2025-11-03 23:36:51.917 [info] Discover tests for workspace name: coder - uri: /home/coder/0.py
+2025-11-03 23:37:25.121 [info] Discover tests for workspace name: coder - uri: /home/coder/0.py
+2025-11-03 23:38:42.827 [info] Discover tests for workspace name: coder - uri: /home/coder/0.py
+2025-11-03 23:38:44.731 [info] Discover tests for workspace name: coder - uri: /home/coder/0.py
+2025-11-03 23:38:46.667 [info] Discover tests for workspace name: coder - uri: /home/coder/0.py
+2025-11-03 23:39:08.680 [info] Discover tests for workspace name: coder - uri: /home/coder/0.py
+2025-11-03 23:39:10.622 [info] Discover tests for workspace name: coder - uri: /home/coder/0.py
+2025-11-03 23:39:44.400 [info] > ./.venv/bin/python ./.local/share/code-server/extensions/ms-python.python-2025.16.0-universal/python_files/normalizeSelection.py
+2025-11-03 23:39:50.699 [info] Discover tests for workspace name: coder - uri: /home/coder/0.py
+2025-11-03 23:39:51.964 [info] Discover tests for workspace name: coder - uri: /home/coder/0.py
+2025-11-03 23:39:53.567 [info] Discover tests for workspace name: coder - uri: /home/coder/0.py
+2025-11-03 23:39:58.662 [info] Discover tests for workspace name: coder - uri: /home/coder/0.py
+2025-11-03 23:40:00.318 [info] Discover tests for workspace name: coder - uri: /home/coder/0.py
+2025-11-03 23:40:03.676 [info] Discover tests for workspace name: coder - uri: /home/coder/0.py
+2025-11-03 23:40:12.759 [info] Discover tests for workspace name: coder - uri: /home/coder/0.py
+2025-11-03 23:40:18.303 [info] Discover tests for workspace name: coder - uri: /home/coder/0.py
+2025-11-03 23:40:20.814 [info] Discover tests for workspace name: coder - uri: /home/coder/0.py
+2025-11-03 23:40:27.314 [info] Discover tests for workspace name: coder - uri: /home/coder/0.py
+2025-11-03 23:40:31.759 [info] Discover tests for workspace name: coder - uri: /home/coder/0.py

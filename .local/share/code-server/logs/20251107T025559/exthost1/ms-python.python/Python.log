@@ -1,0 +1,17 @@
+2025-11-07 02:56:24.369 [warning] Dir "/home/coder/.pixi/envs" is not watchable (directory does not exist)
+2025-11-07 02:56:26.768 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2025-11-07 02:56:26.779 [info] Python interpreter path: ./.venv/bin/python
+2025-11-07 02:56:27.576 [info] > pyenv which python
+2025-11-07 02:56:27.576 [info] cwd: .
+2025-11-07 02:56:33.092 [info] Starting Jedi language server for coder.
+2025-11-07 02:56:43.141 [info] CreateEnv Trigger - Skipping for /home/coder/oi.py
+2025-11-07 02:56:43.481 [info] Send text to terminal: source /home/coder/.venv/bin/activate
+2025-11-07 02:56:44.483 [info] Send text to terminal: /home/coder/.venv/bin/python /home/coder/oi.py
+2025-11-07 02:56:58.969 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-07 02:57:05.623 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-07 02:57:09.729 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-07 02:57:31.811 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-07 02:57:35.167 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-07 02:58:56.452 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-07 02:58:57.969 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-07 02:59:03.562 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py

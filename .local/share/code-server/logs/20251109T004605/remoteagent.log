@@ -1,0 +1,25 @@
+2025-11-09 00:46:05.969 [info] 
+
+
+
+
+2025-11-09 00:46:05.998 [info] Extension host agent started.
+2025-11-09 00:46:15.854 [info] [38.41.122.74][35ed0f01][ManagementConnection] New connection established.
+2025-11-09 00:46:20.078 [info] [38.41.122.202][cf0bff71][ExtensionHostConnection] New connection established.
+2025-11-09 00:46:21.195 [info] [38.41.122.202][cf0bff71][ExtensionHostConnection] <722> Launched Extension Host Process.
+2025-11-09 00:46:47.640 [info] [45.164.140.21][cf0bff71][ExtensionHostConnection] The client has reconnected.
+2025-11-09 00:48:04.043 [info] [38.41.122.74][cf0bff71][ExtensionHostConnection] The client has reconnected.
+2025-11-09 00:48:06.103 [info] [38.41.122.74][35ed0f01][ManagementConnection] The client has reconnected.
+2025-11-09 00:49:54.832 [info] [45.164.140.21][cf0bff71][ExtensionHostConnection] The client has reconnected.
+2025-11-09 00:49:55.531 [info] [45.164.140.21][35ed0f01][ManagementConnection] The client has reconnected.
+2025-11-09 01:04:46.948 [info] [45.164.140.21][cf0bff71][ExtensionHostConnection] The client has reconnected.
+2025-11-09 04:16:39.337 [info] [45.164.140.21][35ed0f01][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-11-09 06:58:21.881 [warning] No ptyHost heartbeat after 6 seconds
+2025-11-09 07:53:01.873 [info] [45.164.140.21][cf0bff71][ExtensionHostConnection] <722> Extension Host Process exited with code: 0, signal: null.
+2025-11-09 07:53:21.289 [info] [45.164.140.21][35ed0f01][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+2025-11-09 16:09:24.740 [error] [38.41.122.74][35ed0f01][ManagementConnection] Unknown reconnection token (seen before).
+2025-11-09 16:25:27.688 [error] Error: read ETIMEDOUT
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+2025-11-09 17:14:14.732 [info] [45.164.140.21][b8bf35cf][ManagementConnection] New connection established.
+2025-11-09 17:14:19.475 [info] [45.164.140.21][88bdea4b][ExtensionHostConnection] New connection established.
+2025-11-09 17:14:19.779 [info] [45.164.140.21][88bdea4b][ExtensionHostConnection] <37381> Launched Extension Host Process.

@@ -1,0 +1,22 @@
+2025-10-31 21:10:08.087 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "3"
+
+2025-10-31 21:10:08.088 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "1"
+
+2025-10-31 21:10:08.088 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "2"
+
+2025-10-31 21:11:27.384 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "7"
+
+2025-10-31 21:15:02.472 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "36"
+
+2025-10-31 21:17:49.818 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "44"
+
+2025-10-31 21:17:50.204 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "45"
+
+2025-10-31 21:17:50.920 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "46"
+
+2025-10-31 21:17:51.145 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "47"
+
+2025-10-31 21:17:53.985 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "52"
+
+2025-10-31 21:17:54.075 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "54"
+

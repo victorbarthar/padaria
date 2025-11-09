@@ -1,0 +1,10 @@
+2025-11-07 01:05:13.714 [info] 
+
+
+
+
+2025-11-07 01:05:13.782 [info] Extension host agent started.
+2025-11-07 01:05:21.922 [info] [104.28.231.164][12462c84][ManagementConnection] New connection established.
+2025-11-07 01:05:28.395 [info] [104.28.231.164][89677bfb][ExtensionHostConnection] New connection established.
+2025-11-07 01:05:29.990 [info] [104.28.231.164][89677bfb][ExtensionHostConnection] <780> Launched Extension Host Process.
+2025-11-07 02:45:21.354 [warning] No ptyHost heartbeat after 6 seconds

@@ -1,0 +1,15 @@
+2025-10-31 21:09:59.973 [info] Experiment 'pythonSurveyNotification' is active
+2025-10-31 21:09:59.973 [warning] Dir "/home/coder/.pixi/envs" is not watchable (directory does not exist)
+2025-10-31 21:10:01.708 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2025-10-31 21:10:01.711 [info] Python interpreter path: ./.venv/bin/python
+2025-10-31 21:10:02.167 [info] > pyenv which python
+2025-10-31 21:10:02.167 [info] cwd: .
+2025-10-31 21:10:06.569 [info] Starting Jedi language server for coder.
+2025-10-31 21:11:31.687 [info] Send text to terminal: source /home/coder/.venv/bin/activate
+2025-10-31 21:11:32.085 [info] CreateEnv Trigger - Skipping for /home/coder/0.py
+2025-10-31 21:17:54.449 [info] Discover tests for workspace name: coder - uri: /home/coder/0.py
+2025-10-31 21:17:56.762 [info] Discover tests for workspace name: coder - uri: /home/coder/0.py
+2025-10-31 21:17:58.285 [info] Discover tests for workspace name: coder - uri: /home/coder/0.py
+2025-10-31 21:17:59.602 [info] Discover tests for workspace name: coder - uri: /home/coder/0.py
+2025-10-31 21:18:00.770 [info] Discover tests for workspace name: coder - uri: /home/coder/0.py
+2025-10-31 21:18:08.448 [info] Discover tests for workspace name: coder - uri: /home/coder/0.py

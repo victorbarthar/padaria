@@ -1,0 +1,7 @@
+2025-11-09 17:14:45.889 [warning] Dir "/home/coder/.pixi/envs" is not watchable (directory does not exist)
+2025-11-09 17:14:47.771 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2025-11-09 17:14:47.775 [info] Python interpreter path: ./.venv/bin/python
+2025-11-09 17:14:48.403 [info] > pyenv which python
+2025-11-09 17:14:48.403 [info] cwd: .
+2025-11-09 17:14:52.700 [info] Starting Jedi language server for coder.
+2025-11-09 21:12:31.236 [info] Send text to terminal: source /home/coder/.venv/bin/activate

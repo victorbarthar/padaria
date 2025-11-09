@@ -1,0 +1,28 @@
+2025-11-05 01:23:32.611 [info] 
+
+
+
+
+2025-11-05 01:23:32.686 [info] Extension host agent started.
+2025-11-05 01:23:41.351 [info] [104.28.199.161][5c45e16b][ManagementConnection] New connection established.
+2025-11-05 01:23:48.976 [info] [104.28.199.161][0820ce41][ExtensionHostConnection] New connection established.
+2025-11-05 01:23:50.688 [info] [104.28.199.161][0820ce41][ExtensionHostConnection] <827> Launched Extension Host Process.
+2025-11-05 01:24:19.484 [warning] No ptyHost heartbeat after 6 seconds
+2025-11-05 01:36:40.886 [info] [104.28.199.161][5c45e16b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-11-05 01:36:42.979 [info] [104.28.199.161][0820ce41][ExtensionHostConnection] <827> Extension Host Process exited with code: 0, signal: null.
+2025-11-05 01:37:04.473 [info] [104.28.231.159][377c2450][ManagementConnection] New connection established.
+2025-11-05 01:37:08.403 [info] [104.28.231.162][357c73c0][ExtensionHostConnection] New connection established.
+2025-11-05 01:37:08.481 [info] [104.28.231.162][357c73c0][ExtensionHostConnection] <4743> Launched Extension Host Process.
+2025-11-05 02:35:20.639 [info] [104.28.199.161][377c2450][ManagementConnection] The client has reconnected.
+2025-11-05 02:35:33.180 [info] [104.28.199.161][357c73c0][ExtensionHostConnection] The client has reconnected.
+2025-11-05 03:01:37.002 [info] [104.28.199.161][377c2450][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-11-05 03:01:38.578 [info] [104.28.199.161][357c73c0][ExtensionHostConnection] <4743> Extension Host Process exited with code: 0, signal: null.
+2025-11-05 03:01:42.451 [info] [104.28.199.161][d3a96810][ManagementConnection] New connection established.
+2025-11-05 03:01:48.084 [info] [104.28.199.161][9fa05a8c][ExtensionHostConnection] New connection established.
+2025-11-05 03:01:48.568 [info] [104.28.199.161][9fa05a8c][ExtensionHostConnection] <13355> Launched Extension Host Process.
+2025-11-05 04:29:49.553 [info] [104.28.199.161][d3a96810][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-11-05 07:29:55.217 [info] [104.28.199.161][d3a96810][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+2025-11-05 07:30:30.968 [info] [104.28.199.161][9fa05a8c][ExtensionHostConnection] <13355> Extension Host Process exited with code: 0, signal: null.
+2025-11-05 13:42:09.633 [info] [137.131.128.153][5a645e18][ManagementConnection] New connection established.
+2025-11-05 13:42:25.301 [info] [137.131.128.153][5bd5def5][ExtensionHostConnection] New connection established.
+2025-11-05 13:42:25.314 [info] [137.131.128.153][5bd5def5][ExtensionHostConnection] <38171> Launched Extension Host Process.

@@ -1,0 +1,35 @@
+2025-11-02 03:40:04.679 [info] 
+
+
+
+
+2025-11-02 03:40:04.786 [info] Extension host agent started.
+2025-11-02 03:40:05.291 [error] [104.28.231.159][771a0da9][ExtensionHostConnection] Unknown reconnection token (never seen).
+2025-11-02 03:40:06.471 [error] [104.28.231.159][9c4d5fca][ManagementConnection] Unknown reconnection token (never seen).
+2025-11-02 19:06:42.469 [info] [104.28.231.162][bf8e8d3f][ManagementConnection] New connection established.
+2025-11-02 19:06:47.290 [info] [104.28.231.162][96a6d70f][ExtensionHostConnection] New connection established.
+2025-11-02 19:06:48.693 [info] [104.28.231.162][96a6d70f][ExtensionHostConnection] <1068> Launched Extension Host Process.
+2025-11-02 21:35:29.413 [info] [104.28.231.162][bf8e8d3f][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-11-02 23:52:54.954 [info] [104.28.231.162][bf8e8d3f][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2025-11-02 23:52:54.957 [info] [104.28.199.159][96a6d70f][ExtensionHostConnection] The client has reconnected.
+2025-11-02 23:52:55.899 [info] [104.28.199.159][bf8e8d3f][ManagementConnection] The client has reconnected.
+2025-11-03 00:08:12.736 [info] [104.28.199.162][bf8e8d3f][ManagementConnection] The client has reconnected.
+2025-11-03 00:08:16.344 [info] [104.28.199.162][96a6d70f][ExtensionHostConnection] The client has reconnected.
+2025-11-03 03:39:49.943 [info] [104.28.199.162][bf8e8d3f][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-11-03 06:39:31.267 [info] [104.28.199.162][96a6d70f][ExtensionHostConnection] <1068> Extension Host Process exited with code: 0, signal: null.
+2025-11-03 06:39:55.182 [info] [104.28.199.162][bf8e8d3f][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+2025-11-03 15:56:08.061 [error] [104.28.231.162][bf8e8d3f][ManagementConnection] Unknown reconnection token (seen before).
+2025-11-03 23:36:00.150 [info] [104.28.231.162][497fdf35][ManagementConnection] New connection established.
+2025-11-03 23:36:04.378 [info] [104.28.231.162][9d25ba31][ExtensionHostConnection] New connection established.
+2025-11-03 23:36:04.574 [info] [104.28.231.162][9d25ba31][ExtensionHostConnection] <65809> Launched Extension Host Process.
+2025-11-03 23:40:44.140 [info] [104.28.231.162][497fdf35][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-11-03 23:40:44.772 [info] [104.28.231.162][9d25ba31][ExtensionHostConnection] <65809> Extension Host Process exited with code: 0, signal: null.
+2025-11-03 23:40:49.046 [info] [104.28.231.162][1e60b785][ManagementConnection] New connection established.
+2025-11-03 23:40:53.091 [info] [104.28.231.162][a854fdb2][ExtensionHostConnection] New connection established.
+2025-11-03 23:40:53.181 [info] [104.28.231.162][a854fdb2][ExtensionHostConnection] <68479> Launched Extension Host Process.
+2025-11-04 01:08:32.589 [info] [104.28.231.162][1e60b785][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-11-04 01:08:37.986 [info] [104.28.231.162][a854fdb2][ExtensionHostConnection] <68479> Extension Host Process exited with code: 0, signal: null.
+2025-11-04 01:08:52.738 [info] [104.28.231.162][92af7e63][ManagementConnection] New connection established.
+2025-11-04 01:08:56.197 [info] [104.28.231.162][95c4f871][ExtensionHostConnection] New connection established.
+2025-11-04 01:08:56.280 [info] [104.28.231.162][95c4f871][ExtensionHostConnection] <78117> Launched Extension Host Process.
+2025-11-04 02:19:45.889 [warning] No ptyHost heartbeat after 6 seconds

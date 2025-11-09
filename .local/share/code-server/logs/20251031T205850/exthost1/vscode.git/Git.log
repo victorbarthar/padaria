@@ -1,0 +1,24 @@
+2025-10-31 20:59:40.790 [info] [main] Log level: Info
+2025-10-31 20:59:40.790 [info] [main] Validating found git in: "git"
+2025-10-31 20:59:40.790 [info] [main] Using git "2.39.5" from "git"
+2025-10-31 20:59:40.790 [info] [Model][doInitialScan] Initial repository scan started
+2025-10-31 20:59:40.790 [info] > git rev-parse --show-toplevel [1180ms]
+2025-10-31 20:59:40.790 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-10-31 20:59:40.790 [info] > git rev-parse --show-toplevel [174ms]
+2025-10-31 20:59:40.790 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-10-31 20:59:40.790 [info] > git rev-parse --show-toplevel [98ms]
+2025-10-31 20:59:40.790 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-10-31 20:59:40.790 [info] > git rev-parse --show-toplevel [89ms]
+2025-10-31 20:59:40.790 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-10-31 20:59:40.790 [info] > git rev-parse --show-toplevel [88ms]
+2025-10-31 20:59:40.790 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-10-31 20:59:40.790 [info] > git rev-parse --show-toplevel [100ms]
+2025-10-31 20:59:40.790 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-10-31 20:59:40.790 [info] > git rev-parse --show-toplevel [12ms]
+2025-10-31 20:59:40.790 [info] fatal: not a git repository (or any parent up to mount point /home/coder)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-10-31 20:59:40.790 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-10-31 20:59:43.592 [info] > git rev-parse --show-toplevel [8ms]
+2025-10-31 20:59:43.592 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-10-31 20:59:48.988 [info] > git rev-parse --show-toplevel [4ms]
+2025-10-31 20:59:48.988 [info] fatal: not a git repository (or any of the parent directories): .git

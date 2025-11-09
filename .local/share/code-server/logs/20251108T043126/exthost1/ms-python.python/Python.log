@@ -1,0 +1,23 @@
+2025-11-08 04:31:51.590 [warning] Dir "/home/coder/.pixi/envs" is not watchable (directory does not exist)
+2025-11-08 04:31:54.269 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2025-11-08 04:31:54.272 [info] Python interpreter path: ./.venv/bin/python
+2025-11-08 04:31:54.886 [info] > pyenv which python
+2025-11-08 04:31:54.886 [info] cwd: .
+2025-11-08 04:31:58.774 [info] Starting Jedi language server for coder.
+2025-11-08 04:32:12.166 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-08 04:32:41.593 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-08 04:32:50.167 [info] Send text to terminal: source /home/coder/.venv/bin/activate
+2025-11-08 04:32:50.394 [info] CreateEnv Trigger - Skipping for /home/coder/oi.py
+2025-11-08 04:33:47.721 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-08 04:33:50.534 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-08 04:34:13.385 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-08 04:34:14.689 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-08 04:34:18.746 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-08 04:34:22.717 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-08 04:34:40.683 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-08 04:35:39.788 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-08 04:35:43.916 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-08 04:35:48.295 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-08 04:35:55.969 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-08 04:35:59.461 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py
+2025-11-08 04:36:02.047 [info] Discover tests for workspace name: coder - uri: /home/coder/oi.py

@@ -1,0 +1,24 @@
+2025-10-31 21:01:18.992 [info] Experiment 'pythonSurveyNotification' is active
+2025-10-31 21:01:18.993 [warning] Dir "/home/coder/.pixi/envs" is not watchable (directory does not exist)
+2025-10-31 21:01:20.675 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2025-10-31 21:01:20.679 [info] Python interpreter path: ./.venv/bin/python
+2025-10-31 21:01:21.188 [info] > pyenv which python
+2025-10-31 21:01:21.188 [info] cwd: .
+2025-10-31 21:01:24.285 [info] Starting Jedi language server for coder.
+2025-10-31 21:02:55.090 [info] Send text to terminal: source /home/coder/.venv/bin/activate
+2025-10-31 21:02:55.319 [info] CreateEnv Trigger - Skipping for /home/coder/0.py
+2025-10-31 21:07:10.568 [info] Discover tests for workspace name: coder - uri: /home/coder/0.py
+2025-10-31 21:07:15.644 [info] Discover tests for workspace name: coder - uri: /home/coder/0.py
+2025-10-31 21:07:17.036 [info] Discover tests for workspace name: coder - uri: /home/coder/0.py
+2025-10-31 21:07:18.377 [info] Discover tests for workspace name: coder - uri: /home/coder/0.py
+2025-10-31 21:07:39.814 [info] Send text to terminal: source /home/coder/.venv/bin/activate
+2025-10-31 21:07:40.315 [info] Send text to terminal: /home/coder/.venv/bin/python /home/coder/0.py
+2025-10-31 21:07:46.270 [info] > ./.venv/bin/python ./.local/share/code-server/extensions/ms-python.python-2025.16.0-universal/python_files/normalizeSelection.py
+2025-10-31 21:08:06.129 [info] Discover tests for workspace name: coder - uri: /home/coder/0.py
+2025-10-31 21:08:09.280 [info] Discover tests for workspace name: coder - uri: /home/coder/0.py
+2025-10-31 21:08:13.061 [info] Discover tests for workspace name: coder - uri: /home/coder/0.py
+2025-10-31 21:08:15.343 [info] Discover tests for workspace name: coder - uri: /home/coder/0.py
+2025-10-31 21:08:21.633 [info] Discover tests for workspace name: coder - uri: /home/coder/0.py
+2025-10-31 21:08:26.961 [info] Discover tests for workspace name: coder - uri: /home/coder/0.py
+2025-10-31 21:08:30.768 [info] Discover tests for workspace name: coder - uri: /home/coder/0.py
+2025-10-31 21:09:28.308 [info] Discover tests for workspace name: coder - uri: /home/coder/0.py

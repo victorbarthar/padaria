@@ -1,0 +1,9 @@
+2025-10-31 20:59:39.971 [info] Experiment 'pythonSurveyNotification' is active
+2025-10-31 20:59:39.971 [warning] Dir "/home/coder/.pixi/envs" is not watchable (directory does not exist)
+2025-10-31 20:59:42.383 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2025-10-31 20:59:42.387 [info] Python interpreter path: ./.venv/bin/python
+2025-10-31 20:59:43.682 [info] > pyenv which python
+2025-10-31 20:59:43.682 [info] cwd: .
+2025-10-31 20:59:47.369 [info] Send text to terminal: source /home/coder/.venv/bin/activate
+2025-10-31 20:59:47.473 [info] CreateEnv Trigger - Skipping for /home/coder/0.py
+2025-10-31 20:59:53.591 [info] Starting Jedi language server for coder.
